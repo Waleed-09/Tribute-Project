@@ -12,11 +12,11 @@ This is a simple **Tribute Page** dedicated to **Bacha Khan**, created using **H
 ## Live Demo
 
 View the live page here:  
-[**Bacha Khan Tribute Page**](https://your-username.github.io/tribute-bacha-khan/)
+[**Bacha Khan Tribute Page**](https://waleed-09.github.io/Tribute-Project/)
 
 
 ## How to Run Locally
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/tribute-bacha-khan.git
+   git clone https://waleed-09.github.io/Tribute-Project/.git
