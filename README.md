@@ -4,10 +4,10 @@ This is a simple **Tribute Page** dedicated to **Bacha Khan**, created using **H
 
 ## Features
 
-- Clean and simple layout
-- Responsive design
-- Sections for biography, achievements, and quotes
-- Styled using CSS
+- Clean and simple layout.
+- Responsive design.
+- Sections for biography, achievements, and quotes.
+- Styled using CSS.
 
 ## Live Demo
 
