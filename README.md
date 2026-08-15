@@ -17,6 +17,6 @@ View the live page here:
 
 ## How to Run Locally
 
-1. Clone the repository:  
+1. Clone the repository
    ```bash
    git clone https://waleed-09.github.io/Tribute-Project/.git
